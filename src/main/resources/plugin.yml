@@ -1,0 +1,5 @@
+name: EZPortForward
+version: '${project.version}'
+main: terminada.ezportforward.Ezportforward
+api-version: 1.18
+load: STARTUP
